@@ -1,0 +1,17 @@
+SCR_PlayerController {
+ ID "1A9BA6BEFA06E3B1"
+ components {
+  SCR_AIRecognitionProbeComponent "{5DDEFA05E5383920}" {
+  }
+  SCR_HUDManagerComponent "{2FDC275D9EBCDB8B}" {
+   InfoDisplays {
+    SCR_StealthIndicatorInfoDisplay "{5DDF08FE94FD95A2}" {
+     m_LayoutPath "{41AFF843565D52DF}UI/StealthIndicatorDisplay.layout"
+     m_ColorLow 0.761 0.235 0.001 1
+     m_ColorMedium 0.784 0.041 0 0.994
+     m_ColorHigh 0.807 0 0.02 1
+    }
+   }
+  }
+ }
+}

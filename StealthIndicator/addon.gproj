@@ -1,0 +1,8 @@
+GameProject {
+ ID "StealthIndicator"
+ GUID "5DDEE7AF8084FA54"
+ TITLE "StealthIndicator"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

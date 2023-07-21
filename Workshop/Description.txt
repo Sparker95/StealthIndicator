@@ -1,0 +1,3 @@
+Adds an indicator showing if any AI soldier has detected you, and how much, like in stealth games.
+
+! Doesn't work in multiplayer
