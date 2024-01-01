@@ -120,6 +120,6 @@ class SCR_AIRecognitionProbeComponent : ScriptComponent
 	//------------------------------------------------------------------------------------------------
 	override void OnPostInit(IEntity owner)
 	{
-		SetEventMask(owner, EntityEvent.INIT | EntityEvent.FRAME | EntityEvent.DIAG);
+		SetEventMask(owner, EntityEvent.INIT | EntityEvent.FRAME);
 	}
 }
